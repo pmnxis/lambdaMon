@@ -1,0 +1,9 @@
+[package]
+name = "lambdaMon"
+version = "0.1.0"
+authors = ["pmnxis <pmnxis@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
